@@ -59,7 +59,7 @@ Conference/Journal: Unknown
 
 
 
-## 1.6  object_map
+## 1.6  object-map
 
 Paper: [Representing and updating objects' identities in semantic SLAM](https://ieeexplore.ieee.org/document/9190524)
 
@@ -109,7 +109,7 @@ Conference/Journal: IROS, 2019
 
 
 
-## 1.9  Eao SLAM
+## 1.9  EAO- SLAM
 
 Paper: [EAO-SLAM: Monocular Semi-Dense Object SLAM Based on Ensemble Data Association](https://ieeexplore.ieee.org/abstract/document/9341757)
 
@@ -157,7 +157,7 @@ Codes: https://github.com/qixuxiang/orb-slam2_with_semantic_label
 
 # 3  Paper
 
-## 3.1  Object Aware SLAM
+## 3.1  Object-Aware SLAM
 
 Title: [Object-Aware SLAM Based on Efficient Quadric Initialization and Joint Data Association](https://ieeexplore.ieee.org/document/9829272)
 

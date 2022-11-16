@@ -205,6 +205,54 @@ Conference/Journal: Sensors, 2022
 
 
 
+## 3.7  DP-SLAM
+
+Ttile: [DP-SLAM A visual SLAM with moving probability towards dynamic environments](https://www.sciencedirect.com/science/article/pii/S0020025520311841)
+
+Conference/Journal: Information Sciences, 2021
+
+
+
+## 3.8  Dynamic Dense CRF Inference
+
+Title: [Dynamic dense CRF inference for video segmentation and semantic SLAM](https://www.sciencedirect.com/science/article/pii/S0031320322005039)
+
+Conference/Journal: Pattern Recognition, 2023
+
+
+
+## 3.9  Blitz-SLAM
+
+Title: [Blitz-SLAM: A semantic SLAM in dynamic environments](https://www.sciencedirect.com/science/article/pii/S0031320321004064)
+
+Conference/Journal: Pattern Recognition, 2022
+
+
+
+## 3.10  YOLO-SLAM
+
+Title: [YOLO-SLAM: A semantic SLAM system towards dynamic environment with geometric constraint](https://link.springer.com/article/10.1007/s00521-021-06764-3)
+
+Conference/Journal: Neural Computing and Applications, 2022
+
+
+
+## 3.11  Hysteretic Mapping and Corridor Semantic Modeling
+
+Title: [Hysteretic mapping and corridor semantic modeling using mobile LiDAR systems](https://www.sciencedirect.com/science/article/pii/S0924271622000491)
+
+Conference/Journal: ISPRS Journal of Photogrammetry and Remote Sensing, 2022
+
+
+
+## 3.12  Dynamic Uncertainty Semantic SLAM
+
+Title: [Three-dimensional dynamic uncertainty semantic SLAM method for a production workshop](https://www.sciencedirect.com/science/article/pii/S0952197622003608)
+
+Conference/Journal: Engineering Applications of Artificial Intelligence, 2022
+
+
+
 # 4  Blogs
 
 ## 4.1  动态 SLAM 合集

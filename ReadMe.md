@@ -253,6 +253,15 @@ Conference/Journal: Engineering Applications of Artificial Intelligence, 2022
 
 
 
+## 3.12  High-level Semantic Regions Mapping
+
+Title: [Mapping High-level Semantic Regions in Indoor Environments without Object Recognition
+](https://arxiv.org/abs/2403.07076)
+
+Conference/Journal: ICRA, 2024
+
+
+
 # 4  Blogs
 
 ## 4.1  动态 SLAM 合集
